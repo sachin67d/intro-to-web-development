@@ -1,0 +1,10 @@
+VS CODE shortcuts:
+select a line: ctrl + l
+select b/w two placeholder: placeholder1 + shift + placeholder2
+multi cursor: long press alt + place ur cursor
+select multi duplicate: ctrl + d
+search for a file: ctrl + p
+alt+z
+
+
+
